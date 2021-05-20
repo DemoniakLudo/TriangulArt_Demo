@@ -1,2 +1,2 @@
 # TriangulArt_Demo
-Amstrad CPC TriangulArt Demo
+Z80 Source of Amstrad CPC TriangulArt Demo
